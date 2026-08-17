@@ -1,16 +1,13 @@
-## Hi there 👋
+# Alessio Colantoni
 
-<!--
-**Alessio-Colantoni/Alessio-Colantoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer con formazione in Ingegneria Informatica (Università degli Studi di Roma Tor Vergata), attualmente impegnato come Software Development Advisor in ambito Energy & Utilities.
 
-Here are some ideas to get you started:
+## 🔧 Progetti
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Progetti nati in ambito universitario e successivamente rivisti ed evoluti con 
+nuove architetture e stack tecnologici, per migliorarne funzionalità, completezza, 
+robustezza e sicurezza:
+
+- **[AlfaPizza](https://github.com/Alessio-Colantoni/AlfaPizza)** — Applicazione mobile per la gestione dei rider di pizzerie: pianificazione turni, vincoli e calendari.
+- **[CRM](https://github.com/Alessio-Colantoni/CRM)** — Applicazione web per la gestione delle relazioni con i clienti.
+- **[GetYourPC](https://github.com/Alessio-Colantoni/GetYourPC)** — Applicazione web per la compravendita di PC tramite bacheca annunci.
